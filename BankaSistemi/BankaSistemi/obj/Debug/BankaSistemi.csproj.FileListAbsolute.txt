@@ -1,0 +1,7 @@
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\Banka Sistemi\BankaSistemi\BankaSistemi\bin\Debug\BankaSistemi.exe.config
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\Banka Sistemi\BankaSistemi\BankaSistemi\bin\Debug\BankaSistemi.exe
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\Banka Sistemi\BankaSistemi\BankaSistemi\bin\Debug\BankaSistemi.pdb
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\Banka Sistemi\BankaSistemi\BankaSistemi\obj\Debug\BankaSistemi.csproj.AssemblyReference.cache
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\Banka Sistemi\BankaSistemi\BankaSistemi\obj\Debug\BankaSistemi.csproj.CoreCompileInputs.cache
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\Banka Sistemi\BankaSistemi\BankaSistemi\obj\Debug\BankaSistemi.exe
+C:\Users\elmau\OneDrive\Masaüstü\Dersler\Visual Studio\Proje 4\Banka Sistemi\BankaSistemi\BankaSistemi\obj\Debug\BankaSistemi.pdb
